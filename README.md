@@ -22,40 +22,4 @@ I'm a passionate data scientist with expertise in AI, web technologies, and more
 
 ## 🛠️ Skills
 
-### Programming Languages
-
-![Languages](https://skillicons.dev/icons?i=python,js,go)
-
-### AI Technologies
-
-![AI Technologies](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
-
-### Frontend Technologies
-
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind,sass,styledcomponents,threejs)
-
-### Backend Technologies
-
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,nodejs,express,django,flask,docker,fastapi)](https://skillicons.dev)
-
-### Database & Tools
-
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite)
-
-### Other Tools & Technologies
-
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vscode,figma,gitlab,latex,linux,notion)
-
-<!-- ## 📈 GitHub Activity Graph
-
-[![Sanchez Kim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchez-kim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanchez-kim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-## 📫 Connect with me
-
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=python,go,js,pytorch,flutter,postgres,aws,git,linux,figma)
