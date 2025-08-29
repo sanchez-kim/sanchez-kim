@@ -1,7 +1,5 @@
 # Sanchez Kim
 
-![](https://komarev.com/ghpvc/?username=sanchez-kim&color=blue&label=WELCOME&style=for-the-badge&base=1100&abbreviated=true)
-
 ## 👋 Welcome to my GitHub!
 
 I'm a passionate data scientist with expertise in AI, web technologies, and more. Here's a bit about me:
@@ -14,12 +12,5 @@ I'm a passionate data scientist with expertise in AI, web technologies, and more
 
 ## 📊 GitHub Stats
 
-![Sanchez Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchez-kim&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchez-kim&layout=compact&theme=tokyonight&exclude_repo=sanchez-kim.github.io)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchez-kim&theme=tokyonight)](https://git.io/streak-stats)
-
-## 🛠️ Skills
-
-![Skills](https://skillicons.dev/icons?i=python,go,js,pytorch,flutter,postgres,aws,git,linux,figma)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchez-kim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchez-kim&theme=tokyonight)
