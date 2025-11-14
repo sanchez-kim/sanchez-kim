@@ -12,5 +12,4 @@ I'm a passionate data scientist with expertise in AI, web technologies, and more
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchez-kim&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchez-kim&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchez-kim&show_icons=true&theme=tokyonight)
